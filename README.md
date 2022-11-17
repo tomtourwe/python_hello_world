@@ -1,1 +1,1 @@
-# python_hello_world
+Please run `python -c "print('Hello World')"`
